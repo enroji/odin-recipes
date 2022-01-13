@@ -1,0 +1,12 @@
+h1 {
+    background-color: rgba(172, 39, 39, 0.657);
+    color: rgba(6, 19, 42, 0.63);
+    font-family: "Helvetica", serif;
+    text-align: center;
+}
+
+ul {
+    background-color: rgba(197, 212, 226, 0.369);
+    color: rgb(230, 115, 20);
+    font-family: "Helvetica", serif;
+}
